@@ -1,4 +1,3 @@
-
 # Full Stack Open 2024
 
 This repository contains my exercise solutions for the [Full Stack Open](https://fullstackopen.com/) course by the University of Helsinki.
@@ -26,8 +25,51 @@ The main focus is on building single-page applications with ReactJS that use RES
 - [x] 0.5: Single page app diagram
 - [x] 0.6: New note in Single page app diagram
 
-### Part 1: Introduction to React
-- [ ] In progress
+### Part 1: Introduction to React ✅
+- [x] a) Introduction to React  
+  - Components  
+  - JSX  
+  - Multiple components  
+  - props: passing data to components  
+  - Possible error message  
+  - Some notes  
+  - Do not render objects  
+  - Exercises 1.1–1.2
+- [x] b) JavaScript  
+  - Variables  
+  - Arrays  
+  - Objects  
+  - Functions  
+  - Exercises 1.3–1.5  
+  - Object methods and "this"  
+  - Classes  
+  - JavaScript materials
+- [x] c) Component state, event handlers  
+  - Component helper functions  
+  - Destructuring  
+  - Page re-rendering  
+  - Stateful component  
+  - Event handling  
+  - An event handler is a function  
+  - Passing state to child components  
+  - Changes in state cause re-rendering  
+  - Refactoring the components
+- [x] d) A more complex state, debugging React apps  
+  - Complex state  
+  - Handling arrays  
+  - Update of the state is asynchronous  
+  - Conditional rendering  
+  - Old React  
+  - Debugging React applications  
+  - Rules of Hooks  
+  - Event Handling Revisited  
+  - A function that returns a function  
+  - Passing Event Handlers to Child Components  
+  - Do Not Define Components Within Components  
+  - Useful Reading  
+  - Web Programmer's Oath  
+  - Utilization of Large language models  
+  - Exercises 1.6–1.14
 
 ### Part 2: Communicating with server
 - [ ] Not started
@@ -66,68 +108,3 @@ The main focus is on building single-page applications with ReactJS that use RES
 - [ ] Not started
 
 ## Repository Structure
-
-```
-fullstack-course/
-├── part0/           # Fundamentals of Web apps
-├── part1/           # Introduction to React
-├── part2/           # Communicating with server
-├── part3/           # Programming a server with NodeJS and Express
-├── part4/           # Testing Express servers, user administration
-├── part5/           # Testing React apps
-├── part6/           # Advanced state management
-├── part7/           # React router, custom hooks, styling app with CSS and webpack
-├── part8/           # GraphQL
-├── part9/           # TypeScript
-├── part10/          # React Native
-├── part11/          # CI/CD
-├── part12/          # Containers
-└── part13/          # Using relational databases
-```
-
-## Technologies Used
-
-- **Frontend**: React, Redux, React Router
-- **Backend**: Node.js, Express
-- **Database**: MongoDB, PostgreSQL
-- **Testing**: Jest, Cypress
-- **Other**: GraphQL, TypeScript, Docker
-
-## Resources
-
-- [Course Website](https://fullstackopen.com/)
-- [Course GitHub](https://github.com/fullstack-hy2020)
-- [Submission System](https://studies.cs.helsinki.fi/stats/courses/fullstackopen)
-
-## Time Spent
-
-| Part | Hours |
-|------|-------|
-| 0    | 2     |
-| 1    | -     |
-| 2    | -     |
-| 3    | -     |
-| 4    | -     |
-| 5    | -     |
-| 6    | -     |
-| 7    | -     |
-| Total| 2     |
-
-## Author
-
-**Shayma**
-- GitHub: [@shayma-dev](https://github.com/shayma-dev)
-
-## License
-
-This project is licensed under the MIT License - see the course materials for details.
-
-## Acknowledgments
-
-- University of Helsinki for providing this excellent free course
-- [Matti Luukkainen](https://github.com/mluukkai) and all the instructors
-- The Full Stack Open community
-
----
-
-*Last updated: November 2024*
