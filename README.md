@@ -49,7 +49,7 @@ The main focus is on building single-page applications with ReactJS that use RES
   - Hook rules and event handler patterns
   - Exercises: `unicafe` and `anecdotes` apps
 
-### Part 2: Communicating with server
+### Part 2: Communicating with server ✅
 - [x] 2a) Rendering a collection, modules  
   - Rendering collections with `Array.map` and keys
   - Avoiding index-based keys
